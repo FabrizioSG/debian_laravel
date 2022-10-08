@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Models\Post;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -14,24 +14,18 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('posts');
+    $posts = Post::all();
+
+    return view('posts', [
+        'posts' => $posts
+    ]);
 });
 
 Route::get('/posts/{post}', function ($slug) {
-    $path = __DIR__ . "/../resources/posts/{$slug}.html";
 
-    if (! file_exists($path)){
-        abort(404);
-    }
-    cache() -> remember("posts.{$slug}", now()-> addMinutes(20), function() use ($path) {
-        return file_get_contents($path);
-    });
+    $post = Post::find($slug);
+    return view('post',['post' => $post]);
 
-    $post = file_get_contents($path);
-
-    return view('post',[
-        'post' => $post
-    ]);
 }) -> where('post','[A-z_\-]+');
 
 Auth::routes();

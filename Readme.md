@@ -25,3 +25,9 @@ Atrapar los errores posibles que puede tener una ruta, aprender de expresiones r
 
 ## Episodio 10
 Utilizar cache para economizar recursos de peticiones al servidor
+
+## Episodio 11
+Utilizar clases para mejorar el codigo, de manera que encontrar los posts sea mas facil y no ensucie tanto el codigo de rutas
+Utilizar el FileSystem para obtener de manera dinamica el numero y el contenido de los posts existentes
+Introduccion a la metadata
+
