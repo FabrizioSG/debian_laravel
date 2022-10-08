@@ -43,3 +43,6 @@ Diferentes sintaxis para mejorar el rendimiento del codigo
 
 ## Episodio 15
 Introduccion e implementacion de layout files para facilitar el reciclaje de codigo en los views
+
+## Episodio 16
+Implementar un findOrFail para atrapar el error cuando una ruta de post no existe
