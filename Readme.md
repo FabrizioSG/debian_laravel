@@ -55,3 +55,12 @@ Se cambian parametros en el archivo .env para poder conectar a nuestra instancia
 Introduccion a las migraciones, estructura de la base de datos y rollbacks
 Tip: Laravel bloquea las migraciones para limpiar la base de datos si el ambiente es de produccion
 ``` php artisan migrate:fresh ```
+
+## Episodio 19
+Introduccion a los modelos, creacion de usuarios e interaccion con tinker
+Comandos como: 
+```
+    $user-> new User;
+    $user -> save();
+    $user -> Find::all();
+```
