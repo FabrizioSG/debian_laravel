@@ -51,3 +51,7 @@ Implementar un findOrFail para atrapar el error cuando una ruta de post no exist
 Introduccion a la conexion a base de datos
 Se cambian parametros en el archivo .env para poder conectar a nuestra instancia de MySql
 
+## Episodio 18
+Introduccion a las migraciones, estructura de la base de datos y rollbacks
+Tip: Laravel bloquea las migraciones para limpiar la base de datos si el ambiente es de produccion
+``` php artisan migrate:fresh ```
