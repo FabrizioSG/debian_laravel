@@ -31,3 +31,7 @@ Utilizar clases para mejorar el codigo, de manera que encontrar los posts sea ma
 Utilizar el FileSystem para obtener de manera dinamica el numero y el contenido de los posts existentes
 Introduccion a la metadata
 
+## Episodio 12
+Utilizar librerias externas para manejar metadata (Spazie YamlFrontMatter)
+Utilizar collections para iterar y mapear de mejor manera
+
