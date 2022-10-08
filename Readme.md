@@ -64,3 +64,17 @@ Comandos como:
     $user -> save();
     $user -> Find::all();
 ```
+
+## Episodio 20
+Creacion de modelos y migraciones utilizando PHP artisan
+```
+php artisan make:migration create_posts_table
+```
+
+Crear modelo
+```
+php artisan make:model Post
+
+```
+
+
