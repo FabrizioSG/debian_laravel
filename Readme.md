@@ -37,3 +37,7 @@ Utilizar collections para iterar y mapear de mejor manera
 Sortear por fecha para acomodar los post
 Cachear el resultado de los post para no hacer futuras peticiones al servidor de informacion constante
 
+## Episodio 14
+Introduccion a Blade
+Diferentes sintaxis para mejorar el rendimiento del codigo
+
