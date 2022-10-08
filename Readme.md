@@ -11,3 +11,8 @@ Cambiar welcome page
 Agregar CSS
 Crear alertas con JS
 
+
+## Episodio 7
+Agregar mas CSS
+Primeros blog Posts
+
