@@ -46,3 +46,8 @@ Introduccion e implementacion de layout files para facilitar el reciclaje de cod
 
 ## Episodio 16
 Implementar un findOrFail para atrapar el error cuando una ruta de post no existe
+
+## Episodio 17
+Introduccion a la conexion a base de datos
+Se cambian parametros en el archivo .env para poder conectar a nuestra instancia de MySql
+
