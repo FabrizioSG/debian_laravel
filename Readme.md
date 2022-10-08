@@ -41,3 +41,5 @@ Cachear el resultado de los post para no hacer futuras peticiones al servidor de
 Introduccion a Blade
 Diferentes sintaxis para mejorar el rendimiento del codigo
 
+## Episodio 15
+Introduccion e implementacion de layout files para facilitar el reciclaje de codigo en los views
