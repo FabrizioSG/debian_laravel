@@ -16,3 +16,7 @@ Crear alertas con JS
 Agregar mas CSS
 Primeros blog Posts
 
+## Episodio 8
+Agregar las rutas y archivos para obtener el contenido de los post de manera dinamica
+
+
