@@ -20,3 +20,7 @@ Primeros blog Posts
 Agregar las rutas y archivos para obtener el contenido de los post de manera dinamica
 
 
+## Episodio 9
+
+Atrapar los errores posibles que puede tener una ruta, aprender de expresiones regulares
+
