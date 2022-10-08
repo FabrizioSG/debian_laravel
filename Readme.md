@@ -21,6 +21,7 @@ Agregar las rutas y archivos para obtener el contenido de los post de manera din
 
 
 ## Episodio 9
-
 Atrapar los errores posibles que puede tener una ruta, aprender de expresiones regulares
 
+## Episodio 10
+Utilizar cache para economizar recursos de peticiones al servidor

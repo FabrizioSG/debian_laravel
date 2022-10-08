@@ -23,6 +23,9 @@ Route::get('/posts/{post}', function ($slug) {
     if (! file_exists($path)){
         abort(404);
     }
+    cache() -> remember("posts.{$slug}", now()-> addMinutes(20), function() use ($path) {
+        return file_get_contents($path);
+    });
 
     $post = file_get_contents($path);
 
