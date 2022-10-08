@@ -11,14 +11,12 @@ Cambiar welcome page
 Agregar CSS
 Crear alertas con JS
 
-
 ## Episodio 7
 Agregar mas CSS
 Primeros blog Posts
 
 ## Episodio 8
 Agregar las rutas y archivos para obtener el contenido de los post de manera dinamica
-
 
 ## Episodio 9
 Atrapar los errores posibles que puede tener una ruta, aprender de expresiones regulares
@@ -34,4 +32,8 @@ Introduccion a la metadata
 ## Episodio 12
 Utilizar librerias externas para manejar metadata (Spazie YamlFrontMatter)
 Utilizar collections para iterar y mapear de mejor manera
+
+## Episodio 13
+Sortear por fecha para acomodar los post
+Cachear el resultado de los post para no hacer futuras peticiones al servidor de informacion constante
 
