@@ -110,10 +110,20 @@ Route::get('/posts/{post}', function (Post $post) {
 });
 ```
 
-##Episodio 24
+## Episodio 24
 Crear migracion y modelo para agregar categorias a los blog posts
 ```
 php artisan make:model Category -m
 ```
 Se crea una relacion entre cada post y categoria mediante una llave foranea llamada ```category_id``` en el modelo de *post*
+
+## Episodio 25
+Crear la relacion Post - Categoria pero desde el modelo de *Category* mediante este codigo:
+```
+public function posts(){
+        
+        return $this->hasMany(Post::class);
+    }
+```
+Para poder consultar cada categoria y traer todos los posts que pertenecen
 

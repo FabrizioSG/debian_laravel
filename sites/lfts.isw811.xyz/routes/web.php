@@ -21,13 +21,19 @@ Route::get('/', function () {
     ]);
 });
 
-Route::get('/posts/{post}', function (Post $post) {
+Route::get('/posts/{post:slug}', function (Post $post) {
 
     // $post = Post::findOrFail($id);
 
     return view('post',['post' => $post]);
 
 });
+
+Rout::get('categories/{category:slug}',function (Category $category)){
+    return view('posts', [
+        'posts' => $category->posts
+    ]);
+}
 
 Auth::routes();
 
