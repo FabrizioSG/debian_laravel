@@ -77,4 +77,15 @@ php artisan make:model Post
 
 ```
 
+## Episodio 21
+Consultas a la base de datos para actualizar el primer post
+```
+$post = App\Models\Post::first();
+
+$post->body = = new body;
+$post->save();
+```
+
+
+
 
