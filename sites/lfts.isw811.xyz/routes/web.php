@@ -14,10 +14,9 @@ use App\Models\Post;
 */
 
 Route::get('/', function () {
-    $posts = Post::all();
 
     return view('posts', [
-        'posts' => $posts
+        'posts' => Post::with('category')->get()
     ]);
 });
 
@@ -29,11 +28,11 @@ Route::get('/posts/{post:slug}', function (Post $post) {
 
 });
 
-Rout::get('categories/{category:slug}',function (Category $category)){
+Route::get('categories/{category:slug}',function (Category $category){
     return view('posts', [
         'posts' => $category->posts
     ]);
-}
+});
 
 Auth::routes();
 

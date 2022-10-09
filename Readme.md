@@ -127,3 +127,12 @@ public function posts(){
 ```
 Para poder consultar cada categoria y traer todos los posts que pertenecen
 
+## Episodio 26
+Solucionar el llamado 'N+1 problem'
+Instalar la libreria 'Clockwork'
+```
+composer require itsgoingd/clockwork
+
+```
+Tambien se puede agregar la extension del navegador de manera opcional
+
