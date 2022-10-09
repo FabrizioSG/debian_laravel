@@ -151,4 +151,12 @@ php artisan make:factory CategoryFactory
 ```
 
 ## Episodio 29
-Ver todos los posts relacionados al autor similar a las categorias
+Ver todos los posts relacionados al autor similar al proceso realizado con las categorias
+
+## Episodio 30
+Solucionar el N+1 previamente detallado pero en las categorias de cada post mediante el siguiente codigo en Post
+```
+protected $with = ['category','author'];
+
+```
+
