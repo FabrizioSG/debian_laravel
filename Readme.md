@@ -86,6 +86,12 @@ $post->body = = new body;
 $post->save();
 ```
 
+## Episodio 22
+Crear post con el siguiente codigo:
+```
+Post::create(['title'=>'My second post','excerpt'=>'Lorem Ipsum','body'=>'Lorem ipsum Lorem ipsum Lorem Ipsum']);
+```
 
+Agregar el $fillable en el modelo de Post para que el codigo anterior corra de manera correcta
 
 
