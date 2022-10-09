@@ -136,3 +136,9 @@ composer require itsgoingd/clockwork
 ```
 Tambien se puede agregar la extension del navegador de manera opcional
 
+## Episodio 27
+Agregar creador de cada post mediante una relacion similar a cada post con su categoria
+Crear un seeder para poblar la base de datos de manera automatica
+```
+php artisan db:seed
+```
