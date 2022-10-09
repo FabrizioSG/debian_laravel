@@ -142,3 +142,10 @@ Crear un seeder para poblar la base de datos de manera automatica
 ```
 php artisan db:seed
 ```
+
+## Episodio 28
+Utilizar factories para crear contenido en la base de datos de manera aleatoria y de forma rapida
+```
+php artisan make:factory PostFactory
+php artisan make:factory CategoryFactory
+```
