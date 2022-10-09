@@ -89,9 +89,24 @@ $post->save();
 ## Episodio 22
 Crear post con el siguiente codigo:
 ```
-Post::create(['title'=>'My second post','excerpt'=>'Lorem Ipsum','body'=>'Lorem ipsum Lorem ipsum Lorem Ipsum']);
+Post::create(['title'=>'My second post','excerpt'=>'Lorem Ipsum',
+'body'=>'Lorem ipsum Lorem ipsum Lorem Ipsum']);
 ```
 
 Agregar el $fillable en el modelo de Post para que el codigo anterior corra de manera correcta
 
+
+## Episodio 23
+Mejorar la busqueda del post mediante el cambio de enviar un ```Post $post``` en lugar de un ```$id``` en el request 
+del Endpoint
+
+```
+Route::get('/posts/{post}', function (Post $post) {
+
+    // $post = Post::findOrFail($id);
+
+    return view('post',['post' => $post]);
+
+});
+```
 
