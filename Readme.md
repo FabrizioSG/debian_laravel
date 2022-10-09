@@ -149,3 +149,6 @@ Utilizar factories para crear contenido en la base de datos de manera aleatoria 
 php artisan make:factory PostFactory
 php artisan make:factory CategoryFactory
 ```
+
+## Episodio 29
+Ver todos los posts relacionados al autor similar a las categorias
