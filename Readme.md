@@ -184,3 +184,7 @@ protected $with = ['category','author'];
 ```
 [Codigo](https://github.com/FabrizioSG/debian_laravel/commit/ba2a485b6fedc4ea372de674d584557b32592c54)
 
+## Episodio 31
+Convertir el html y CSS a blade utilizando tambien el complemento de Tailwind, ademas de utilizar componentes para reutilizar codigo en las vistas.
+
+
