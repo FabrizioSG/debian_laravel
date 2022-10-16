@@ -195,3 +195,6 @@ Similar al episodio anterior, cargar los post en su pagina individual de manera 
 
 ## Episodio 34
 Hacer un dropdown para mostrar las categorias en el homepage utilizando JavaScript
+
+## Episodio 35
+Extraer el dropdown como un componente para reciclar ese codigo
