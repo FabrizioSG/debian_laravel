@@ -192,3 +192,6 @@ Inyectar la informacion de los posts de la pagina principal de manera dinamica
 
 ## Episodio 33
 Similar al episodio anterior, cargar los post en su pagina individual de manera dinamica
+
+## Episodio 34
+Hacer un dropdown para mostrar las categorias en el homepage utilizando JavaScript

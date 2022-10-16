@@ -1,5 +1,6 @@
 <x-layout>
 <!doctype html>
+@include ('_posts-header')
 
     <section class="px-6 py-8">
 
