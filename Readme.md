@@ -187,4 +187,5 @@ protected $with = ['category','author'];
 ## Episodio 31
 Convertir el html y CSS a blade utilizando tambien el complemento de Tailwind, ademas de utilizar componentes para reutilizar codigo en las vistas.
 
-
+## Episodio 32
+Inyectar la informacion de los posts de manera dinamica
