@@ -246,3 +246,5 @@ Introduccion al middleware
 ## Episodio 50
 Crear la vista de inicio de sesion y manejar los posibles errores de validacion
 
+## Episodio 51
+Demo de laravel breeze, una libreria de autenticacion que genera las vistas y toda la logica relacionada con autenticacion y autorizacion de usuarios
