@@ -185,66 +185,94 @@ protected $with = ['category','author'];
 [Codigo](https://github.com/FabrizioSG/debian_laravel/commit/ba2a485b6fedc4ea372de674d584557b32592c54)
 
 ## Episodio 31
-Convertir el html y CSS a blade utilizando tambien el complemento de Tailwind, ademas de utilizar componentes para reutilizar codigo en las vistas.
+Convertir el html y CSS a blade utilizando tambien el complemento de Tailwind, ademas de utilizar componentes para reutilizar codigo en las vistas.  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/e91b90aa49fb2de587497f5516f902e90b5ca5ab)
 
 ## Episodio 32
-Inyectar la informacion de los posts de la pagina principal de manera dinamica
+Inyectar la informacion de los posts de la pagina principal de manera dinamica  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/be6e3432de71fdfe14c525143b01bb5790ca7ff0)
 
 ## Episodio 33
-Similar al episodio anterior, cargar los post en su pagina individual de manera dinamica
+Similar al episodio anterior, cargar los post en su pagina individual de manera dinamica  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/a880ca5b88716ebd0e95a88facb66872a1166673)
 
 ## Episodio 34
-Hacer un dropdown para mostrar las categorias en el homepage utilizando JavaScript
+Hacer un dropdown para mostrar las categorias en el homepage utilizando JavaScript  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/d32d48af70b4618bfb89bcd2e30ff598e638c870)
 
 ## Episodio 35
-Extraer el dropdown como un componente para reciclar ese codigo
+Extraer el dropdown como un componente para reciclar ese codigo  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/7eba396b24d594da2bc38053939bf1a6e2a9b1ca)
 
 ## Episodio 36
-Limpieza y mejoras de codigo
+Limpieza y mejoras de codigo  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/a460e934406dcc96441e114c61255de5a43b3bfc)
 
 ## Episodio 37
-Funcion de busqueda 
+Funcion de busqueda   
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/cd5d22877f8454048f65d6fd90f6c2cfae43540d)
 
 ## Episodio 38
-Mejorar funcion de busqueda de posts
+Mejorar funcion de busqueda de posts  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/4d2a86427ba559c12359080efcb331ee4e955ccd)
 
 ## Episodio 39
-Mejorar el query similar a la busqueda de posts pero ahora por categoria
+Mejorar el query similar a la busqueda de posts pero ahora por categoria  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/2d06e1bf5a32a7f9601c6162848fe017498f7772)
 
 ## Episodio 40
-Extraer el codigo del dropdown de categorias en su propio componente para mejorar aun mas y limpiar el codigo de las vistas
+Extraer el codigo del dropdown de categorias en su propio componente para mejorar aun mas y limpiar el codigo de las vistas  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/d63c3e807f36d7bfe6528ecde676b18f1f621547)
 
 ## Episodio 41
-Implementar un filtro por autor
+Implementar un filtro por autor  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/31bac13c2f6f2ca2454e8db7fc70533d0992177d)
 
 ## Episodio 42
-Unir el filtro para categoria y busqueda de texto
+Unir el filtro para categoria y busqueda de texto  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/aa4c0b54302761df8e0d293b33dc74b3448271e1)
 
 ## Episodio 43
-Arreglar un pequeno bug en las busquedas
+Arreglar un pequeno bug en las busquedas  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/8ab7da31b0dc557317bfc4e600f0802d5d9147e1)
 
 ## Episodio 44
-Paginar la informacion que se muestra en las vistas cuando son muchos posts
-Hacer codigo de vendors publico para poder actualizar o cambiar vistas
+Paginar la informacion que se muestra en las vistas cuando son muchos posts  
+Hacer codigo de vendors publico para poder actualizar o cambiar vistas  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/0e2fe31b1abb17754571952a9a51e4c89558b22c)
 
 ## Episodio 45
-Implementar una pagina de registro de usuario, autenticacion, autorizacion
+Implementar una pagina de registro de usuario, autenticacion, autorizacion  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/7f0e8f8c86388e8eed71fa87d408b36bcea6aca9)
 
 ## Episodio 46
-Hashear las contraseñas para guardarlas de manera segura en la base de datos
+Hashear las contraseñas para guardarlas de manera segura en la base de datos  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/d7e653e4a9d276a6d6fb5b2526dc1d84ca84ad1f)
 
 ## Episodio 47
-Implementar validacion de errores y mensajes de error
+Implementar validacion de errores y mensajes de error  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/da11e752999d673a88c9a3a50c246710850dbf56)
 
 ## Episodio 48
-Mostrar un mensaje de exito flash cuando el registro es completado de manera exitosa
+Mostrar un mensaje de exito flash cuando el registro es completado de manera exitosa  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/a8ef9c6e1527eec1e097af7e3693d60d910f7262)
 
 ## Episodio 49
-Implementar la funcion de iniciar y cerrar sesion
-Introduccion al middleware
+Implementar la funcion de iniciar y cerrar sesion  
+Introduccion al middleware  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/9260affcb805fc4e94991c2727c43f25990f935a)
 
 ## Episodio 50
-Crear la vista de inicio de sesion y manejar los posibles errores de validacion
+Crear la vista de inicio de sesion y manejar los posibles errores de validacion  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/d7dc7ff02654ab55985a9bd0ac77a2a74cdf559b)
 
 ## Episodio 51
-Demo de laravel breeze, una libreria de autenticacion que genera las vistas y toda la logica relacionada con autenticacion y autorizacion de usuarios
+Demo de laravel breeze, una libreria de autenticacion que genera las vistas y toda la logica relacionada con autenticacion y autorizacion de usuarios  
+[Laravel breeze](https://laravel.com/docs/9.x/starter-kits#laravel-breeze)
+``` composer require laravel/breeze --dev
+php artisan breeze:install
+ 
+php artisan migrate
+npm install
+npm run dev
+```
