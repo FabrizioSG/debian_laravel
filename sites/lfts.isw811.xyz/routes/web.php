@@ -5,6 +5,8 @@ use App\Models\Post;
 use App\Models\Category;
 use App\Models\User;
 use App\Http\Controllers\PostController;
+use App\Http\Controllers\RegisterController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -29,7 +31,9 @@ Route::get('/posts/{post:slug}', function (Post $post) {
 
 });
 
+Route::get('register', [RegisterController::class, 'create']);
+Route::post('register', [RegisterController::class, 'store']);
 
-Auth::routes();
+//Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

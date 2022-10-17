@@ -226,3 +226,6 @@ Arreglar un pequeno bug en las busquedas
 ## Episodio 44
 Paginar la informacion que se muestra en las vistas cuando son muchos posts
 Hacer codigo de vendors publico para poder actualizar o cambiar vistas
+
+## Episodio 45
+Implementar una pagina de registro de usuario, autenticacion, autorizacion
