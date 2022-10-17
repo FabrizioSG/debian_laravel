@@ -213,3 +213,6 @@ Mejorar el query similar a la busqueda de posts pero ahora por categoria
 
 ## Episodio 40
 Extraer el codigo del dropdown de categorias en su propio componente para mejorar aun mas y limpiar el codigo de las vistas
+
+## Episodio 41
+Implementar un filtro por autor

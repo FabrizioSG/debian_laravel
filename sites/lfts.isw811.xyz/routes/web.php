@@ -29,12 +29,6 @@ Route::get('/posts/{post:slug}', function (Post $post) {
 
 });
 
-Route::get('authors/{author}',function (User $author){
-    return view('posts', [
-        'posts' => $author->posts,
-        'categories' => Category::all()
-    ]);
-});
 
 Auth::routes();
 
