@@ -198,3 +198,6 @@ Hacer un dropdown para mostrar las categorias en el homepage utilizando JavaScri
 
 ## Episodio 35
 Extraer el dropdown como un componente para reciclar ese codigo
+
+## Episodio 36
+Limpieza y mejoras de codigo
