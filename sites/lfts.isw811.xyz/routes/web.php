@@ -25,17 +25,9 @@ Route::get('/posts/{post:slug}', function (Post $post) {
     return view('post',['post' => $post,
     'categories' => Category::all()
 
-]);
+    ]);
 
 });
-
-/* Route::get('categories/{category:slug}',function (Category $category){
-    return view('posts', [
-        'posts' => $category->posts,
-        'categories' => Category::all()
-
-    ]);
-}); */
 
 Route::get('authors/{author}',function (User $author){
     return view('posts', [
