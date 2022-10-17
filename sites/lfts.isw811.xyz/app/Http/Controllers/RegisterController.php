@@ -18,6 +18,8 @@ class RegisterController extends Controller
             'password'=>'required|min:4'
         ]);
 
+        // $attributes['password'] = bcrypt($attributes['password']);
+
         User::create($attributes);
 
         return redirect('/');

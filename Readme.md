@@ -229,3 +229,6 @@ Hacer codigo de vendors publico para poder actualizar o cambiar vistas
 
 ## Episodio 45
 Implementar una pagina de registro de usuario, autenticacion, autorizacion
+
+## Episodio 46
+Hashear las contraseñas para guardarla de manera segura en la base de datos
