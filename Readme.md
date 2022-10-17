@@ -204,3 +204,6 @@ Limpieza y mejoras de codigo
 
 ## Episodio 37
 Funcion de busqueda 
+
+## Episodio 38
+Mejorar funcion de busqueda de posts
