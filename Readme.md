@@ -216,3 +216,6 @@ Extraer el codigo del dropdown de categorias en su propio componente para mejora
 
 ## Episodio 41
 Implementar un filtro por autor
+
+## Episodio 42
+Unir el filtro para categoria y busqueda de texto
