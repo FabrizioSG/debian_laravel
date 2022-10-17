@@ -238,3 +238,7 @@ Implementar validacion de errores y mensajes de error
 
 ## Episodio 48
 Mostrar un mensaje de exito flash cuando el registro es completado de manera exitosa
+
+## Episodio 49
+Implementar la funcion de iniciar y cerrar sesion
+Introduccion al middleware
