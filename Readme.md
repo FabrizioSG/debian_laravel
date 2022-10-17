@@ -219,3 +219,6 @@ Implementar un filtro por autor
 
 ## Episodio 42
 Unir el filtro para categoria y busqueda de texto
+
+## Episodio 43
+Arreglar un pequeno bug en las busquedas
