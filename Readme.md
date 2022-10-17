@@ -242,3 +242,7 @@ Mostrar un mensaje de exito flash cuando el registro es completado de manera exi
 ## Episodio 49
 Implementar la funcion de iniciar y cerrar sesion
 Introduccion al middleware
+
+## Episodio 50
+Crear la vista de inicio de sesion y manejar los posibles errores de validacion
+
