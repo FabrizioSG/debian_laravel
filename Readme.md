@@ -235,3 +235,6 @@ Hashear las contraseñas para guardarlas de manera segura en la base de datos
 
 ## Episodio 47
 Implementar validacion de errores y mensajes de error
+
+## Episodio 48
+Mostrar un mensaje de exito flash cuando el registro es completado de manera exitosa
