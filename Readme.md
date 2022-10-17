@@ -207,3 +207,6 @@ Funcion de busqueda
 
 ## Episodio 38
 Mejorar funcion de busqueda de posts
+
+## Episodio 39
+Mejorar el query similar a la busqueda de posts pero ahora por categoria

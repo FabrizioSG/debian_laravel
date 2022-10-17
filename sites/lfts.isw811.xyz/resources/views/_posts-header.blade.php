@@ -7,7 +7,7 @@
                 <div class="relative flex lg:inline-flex items-center bg-gray-100 rounded-xl">
                     <x-dropdown>
                     @foreach ($categories as $category)
-                            <a href="/categories/{{$category->slug}}" 
+                            <a href="/?category={{$category->slug}}" 
                             class = "block text-left px-3 text-s leading-6 hover:bg-blue-500 focus:bg-blue-500">
                             {{$category->name}}
                             </a>
