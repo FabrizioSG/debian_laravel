@@ -201,3 +201,6 @@ Extraer el dropdown como un componente para reciclar ese codigo
 
 ## Episodio 36
 Limpieza y mejoras de codigo
+
+## Episodio 37
+Funcion de busqueda 
