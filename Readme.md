@@ -231,4 +231,7 @@ Hacer codigo de vendors publico para poder actualizar o cambiar vistas
 Implementar una pagina de registro de usuario, autenticacion, autorizacion
 
 ## Episodio 46
-Hashear las contraseñas para guardarla de manera segura en la base de datos
+Hashear las contraseñas para guardarlas de manera segura en la base de datos
+
+## Episodio 47
+Implementar validacion de errores y mensajes de error
