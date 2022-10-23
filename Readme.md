@@ -297,3 +297,6 @@ Limpieza de codigo y extraccion de algunos componentes para mejorar el codigo de
 
 ## Episodio 58
 Implementar mailchimp como servicio de correos
+
+## Episodio 59
+Activar el form para poder suscribirse al servicio de newsletter
