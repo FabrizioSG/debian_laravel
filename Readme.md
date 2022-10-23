@@ -285,3 +285,6 @@ Se crea la tabla asignada a comentarios, ademas se introduce una nueva forma de 
 
 ## Episodio 54
 Mostrar los comentarios de manera dinamica para su respectivo post
+
+## Episodio 55
+Crear el form que permitira a los usuarios que tengan una sesion activa crear comentarios para un post
