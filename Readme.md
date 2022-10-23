@@ -312,3 +312,6 @@ Se implementa la creacion de una seccion para administradores que permita realiz
 
 ## Episodio 63
 Se crea la vista para crear un post en la seccion para administradores
+
+## Episodio 64
+Implementar la funcion de agregar una miniatura para los posts
