@@ -276,3 +276,5 @@ php artisan migrate
 npm install
 npm run dev
 ```
+## Episodio 52
+Se crea un componente para agregar comentarios a la vista de post
