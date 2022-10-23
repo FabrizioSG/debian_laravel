@@ -291,3 +291,8 @@ Crear el form que permitira a los usuarios que tengan una sesion activa crear co
 
 ## Episodio 56
 Utilizar el form previamente creado para guardar el comentario escrito por el usuario
+
+## Episodio 57
+Limpieza de codigo y extraccion de algunos componentes para mejorar el codigo de las vistas
+
+## Episodio 58
