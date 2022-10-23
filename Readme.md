@@ -296,3 +296,4 @@ Utilizar el form previamente creado para guardar el comentario escrito por el us
 Limpieza de codigo y extraccion de algunos componentes para mejorar el codigo de las vistas
 
 ## Episodio 58
+Implementar mailchimp como servicio de correos
