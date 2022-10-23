@@ -309,3 +309,6 @@ Se introducen varios conceptos como service containers, php interfaces y registr
 
 ## Episodio 62
 Se implementa la creacion de una seccion para administradores que permita realizar acciones como crear posts mediante una interfaz en la web
+
+## Episodio 63
+Se crea la vista para crear un post en la seccion para administradores
