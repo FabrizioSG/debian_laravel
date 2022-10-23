@@ -300,3 +300,6 @@ Implementar mailchimp como servicio de correos
 
 ## Episodio 59
 Activar el form para poder suscribirse al servicio de newsletter
+
+## Episodio 60
+Crear un controlador y un servicio para el newsletter para limpiar el codigo en rutas
