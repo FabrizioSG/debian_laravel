@@ -318,3 +318,6 @@ Implementar la funcion de agregar una miniatura para los posts
 
 ## Episodio 65
 Extraer algunas piezas de codigo como componentes para mejorar la eficacia del codigo de las vistas 
+
+## Episodio 66
+Se extiende el layout de la pagina de administrador para tener una barra de navegacion al lado
