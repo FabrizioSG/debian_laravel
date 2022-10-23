@@ -283,3 +283,5 @@ Se crea un componente para agregar comentarios a la vista de post
 ## Episodio 53
 Se crea la tabla asignada a comentarios, ademas se introduce una nueva forma de relacionar las tablas post y users con comentarios
 
+## Episodio 54
+Mostrar los comentarios de manera dinamica para su respectivo post
