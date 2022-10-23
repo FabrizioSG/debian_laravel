@@ -303,3 +303,6 @@ Activar el form para poder suscribirse al servicio de newsletter
 
 ## Episodio 60
 Crear un controlador y un servicio para el newsletter para limpiar el codigo en rutas
+
+## Episodio 61
+Se introducen varios conceptos como service containers, php interfaces y registration bindings.
