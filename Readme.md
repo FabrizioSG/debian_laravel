@@ -306,3 +306,6 @@ Crear un controlador y un servicio para el newsletter para limpiar el codigo en 
 
 ## Episodio 61
 Se introducen varios conceptos como service containers, php interfaces y registration bindings.
+
+## Episodio 62
+Se implementa la creacion de una seccion para administradores que permita realizar acciones como crear posts mediante una interfaz en la web
