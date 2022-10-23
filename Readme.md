@@ -315,3 +315,6 @@ Se crea la vista para crear un post en la seccion para administradores
 
 ## Episodio 64
 Implementar la funcion de agregar una miniatura para los posts
+
+## Episodio 65
+Extraer algunas piezas de codigo como componentes para mejorar la eficacia del codigo de las vistas 
