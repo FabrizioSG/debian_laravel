@@ -321,3 +321,6 @@ Extraer algunas piezas de codigo como componentes para mejorar la eficacia del c
 
 ## Episodio 66
 Se extiende el layout de la pagina de administrador para tener una barra de navegacion al lado
+
+## Episodio 67
+Agregar la funcion de editar y borrar posts desde el menu de administrador

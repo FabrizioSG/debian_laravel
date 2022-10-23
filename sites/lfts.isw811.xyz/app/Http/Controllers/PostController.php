@@ -20,7 +20,7 @@ class PostController extends Controller
     }
     public function create()
     {
-        return view('create');
+        return view('admin.posts.create');
     }
 
     public function store()
