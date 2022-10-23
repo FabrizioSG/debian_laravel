@@ -288,3 +288,6 @@ Mostrar los comentarios de manera dinamica para su respectivo post
 
 ## Episodio 55
 Crear el form que permitira a los usuarios que tengan una sesion activa crear comentarios para un post
+
+## Episodio 56
+Utilizar el form previamente creado para guardar el comentario escrito por el usuario

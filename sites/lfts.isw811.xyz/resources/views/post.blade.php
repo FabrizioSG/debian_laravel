@@ -55,7 +55,8 @@
                     </div>
                 </div>
                 <section class="col-span-8 col-start-5 mt-10 space-y-6">
-                    <form method="POST" action="#" class="border border-gray-200 p-6 rounded-xl">
+                    @auth
+                    <form method="POST" action="/posts/{{ $post->slug }}/comments" class="border border-gray-200 p-6 rounded-xl">
                         @csrf
                         <header class="flex" items-center>
                         <img src="https://i.pravatar.cc/60?u={{ auth()->id() }}" alt="" width="40" height="60" class="rounded-full">
@@ -70,8 +71,12 @@
                                 Post
                             </button>
                         </div>
-
                     </form>
+                    @else
+                        <p>
+                            <a href="/register">Register</a> or <a href="/login">Log in to leave a comment</a>
+                        </p>
+                    @endauth
 
                         @foreach ($post->comments as $comment)
                             <x-post-comment :comment="$comment" />
