@@ -277,56 +277,76 @@ npm install
 npm run dev
 ```
 ## Episodio 52
-Se crea un componente para agregar comentarios a la vista de post
-
+Se crea un componente para agregar comentarios a la vista de post  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/d729872f0dcefee2296a9a24c2488cae7ff2ba54)
 
 ## Episodio 53
-Se crea la tabla asignada a comentarios, ademas se introduce una nueva forma de relacionar las tablas post y users con comentarios
+Se crea la tabla asignada a comentarios, ademas se introduce una nueva forma de relacionar las tablas post y users con comentarios  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/713f2978a126c103611cd2ea03a92abd203d885e)
 
 ## Episodio 54
-Mostrar los comentarios de manera dinamica para su respectivo post
+Mostrar los comentarios de manera dinamica para su respectivo post  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/4d5fd5f0935ea96933564288a8639e0b0e0b574e)
 
 ## Episodio 55
-Crear el form que permitira a los usuarios que tengan una sesion activa crear comentarios para un post
+Crear el form que permitira a los usuarios que tengan una sesion activa crear comentarios para un post  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/68e323cd3c5c2aa79300298fd628f5baacf12f68)
 
 ## Episodio 56
-Utilizar el form previamente creado para guardar el comentario escrito por el usuario
+Utilizar el form previamente creado para guardar el comentario escrito por el usuario  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/616e5aa37ecb68f575fd2f882132b0efa69adf01)
 
 ## Episodio 57
-Limpieza de codigo y extraccion de algunos componentes para mejorar el codigo de las vistas
+Limpieza de codigo y extraccion de algunos componentes para mejorar el codigo de las vistas  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/d3fddb24e299569b67f6fcd0f423c68968f228cb)
 
 ## Episodio 58
-Implementar mailchimp como servicio de correos
+Implementar mailchimp como servicio de correos  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/abed312e25ce942bc1671c737e16bca0af2e0e75)
 
 ## Episodio 59
-Activar el form para poder suscribirse al servicio de newsletter
+Activar el form para poder suscribirse al servicio de newsletter  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/1841ee350b8e8d07fcffc0825ff5bd853130e308)
 
 ## Episodio 60
-Crear un controlador y un servicio para el newsletter para limpiar el codigo en rutas
+Crear un controlador y un servicio para el newsletter para limpiar el codigo en rutas  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/a876ac5a8f277846d6d22d00d4163202bf418363)
 
 ## Episodio 61
-Se introducen varios conceptos como service containers, php interfaces y registration bindings.
+Se introducen varios conceptos como service containers, php interfaces y registration bindings.  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/de6a7dca1548673d2b4a4f3ca8caf83b1bd4db3f)
 
 ## Episodio 62
-Se implementa la creacion de una seccion para administradores que permita realizar acciones como crear posts mediante una interfaz en la web
+Se implementa la creacion de una seccion para administradores que permita realizar acciones como crear posts mediante una interfaz en la web  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/60d9b093d82b52315c6ec8b86530d0cc59e15365)
 
 ## Episodio 63
-Se crea la vista para crear un post en la seccion para administradores
+Se crea la vista para crear un post en la seccion para administradores  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/6669800f346206669e8f374a2e3e0d7ac84736dc)
 
 ## Episodio 64
-Implementar la funcion de agregar una miniatura para los posts
+Implementar la funcion de agregar una miniatura para los posts  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/93d97af4c6aa359b3fb7cbe148d518df98dc6c79)
 
 ## Episodio 65
-Extraer algunas piezas de codigo como componentes para mejorar la eficacia del codigo de las vistas 
+Extraer algunas piezas de codigo como componentes para mejorar la eficacia del codigo de las vistas   
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/76d0f4e149bf332521ef27e5d9f0c9ee5b34e6ae)
 
 ## Episodio 66
-Se extiende el layout de la pagina de administrador para tener una barra de navegacion al lado
+Se extiende el layout de la pagina de administrador para tener una barra de navegacion al lado  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/99e490e827c90e24f9d4ada0b6467ea593ca1c7d)
 
 ## Episodio 67
-Agregar la funcion de editar y borrar posts desde el menu de administrador
+Agregar la funcion de editar y borrar posts desde el menu de administrador  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/a7f14e4c81ef649ae6e38c541135f4a4ce92c28d)
 
 ## Episodio 68
-Agrupar la logica de validacion aparte en el controlador del administrador para mejorar la eficiencia del codigo
+Agrupar la logica de validacion aparte en el controlador del administrador para mejorar la eficiencia del codigo  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/b99aaaaa2320debb0a75e628f3e2f84198ab3b5e)
 
 ## Episodio 69
-Cambios en autorizacion para que usuarios que NO son administradores no puedan ver las secciones unicas para admins
+Cambios en autorizacion para que usuarios que NO son administradores no puedan ver las secciones unicas para admins  
+[Codigo](https://github.com/FabrizioSG/debian_laravel/commit/cd436b023ef2943f1446220e97cfa6a0f90807bf)
+
+## Episodio 70
+Conclusion del curso y next steps
