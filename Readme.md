@@ -327,3 +327,6 @@ Agregar la funcion de editar y borrar posts desde el menu de administrador
 
 ## Episodio 68
 Agrupar la logica de validacion aparte en el controlador del administrador para mejorar la eficiencia del codigo
+
+## Episodio 69
+Cambios en autorizacion para que usuarios que NO son administradores no puedan ver las secciones unicas para admins
