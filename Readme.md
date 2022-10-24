@@ -324,3 +324,6 @@ Se extiende el layout de la pagina de administrador para tener una barra de nave
 
 ## Episodio 67
 Agregar la funcion de editar y borrar posts desde el menu de administrador
+
+## Episodio 68
+Agrupar la logica de validacion aparte en el controlador del administrador para mejorar la eficiencia del codigo
